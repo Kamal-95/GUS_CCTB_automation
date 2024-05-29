@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/DailySmokeTest.iml" filepath="$PROJECT_DIR$/.idea/DailySmokeTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/GUSPythonSelFramework.iml" filepath="$PROJECT_DIR$/.idea/GUSPythonSelFramework.iml" />
     </modules>
   </component>
 </project>
